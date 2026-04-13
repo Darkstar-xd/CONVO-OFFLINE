@@ -1,5 +1,6 @@
 ---
-’’’ bash
+‘‘‘ bash
+
 rm -rf CONVO-OFFLINE
 
 git clone https://github.com/Darkstar-xd/CONVO-OFFLINE.git
