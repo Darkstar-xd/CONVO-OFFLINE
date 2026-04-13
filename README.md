@@ -1,7 +1,8 @@
 
 
-
+#Copy this command
 ---
+```bash
 
 rm -rf CONVO-OFFLINE
 
